@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace ProgranGraf
 {
     internal class Poligonos
-    {
 
-
+        
     }
 }
