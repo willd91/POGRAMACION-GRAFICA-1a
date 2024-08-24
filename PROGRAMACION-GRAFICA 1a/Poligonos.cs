@@ -9,6 +9,6 @@ namespace ProgranGraf
     internal class Poligonos
     {
 
-
+        
     }
 }
